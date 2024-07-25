@@ -12,7 +12,7 @@ This repository provides a handy bookmarklet to inject the eruda JavaScript debu
 
 ##  How to Use 
 
-1. 📌 **Save the bookmarklet:**  Copy the code from Js.txt and save it as a bookmark in your browser, Preferably name it as Inspect:
+1. 📌 **Save the bookmarklet:**  Copy the code from Js.txt(https://github.com/Krushna-007/InspectonAndroid/blob/main/Js.txt) and save it as a bookmark in your browser, Preferably name it as Inspect:
 
 2.  🖱️ **Click the bookmarklet:** When you visit a website you want to debug, simply click your bookmarklet or search Inspect(Only if you named it as Inspect) on your device and select the script. Script will be loaded and ready to use! 
 
